@@ -1,4 +1,5 @@
-## Hi there 👋
+## Charlotte Dreany
+Class of 2028 @ Washington and Lee University
 
 <!--
 **cidreany/cidreany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
