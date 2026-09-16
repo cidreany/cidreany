@@ -1,6 +1,13 @@
 ## Charlotte Dreany
 Class of 2028 @ Washington and Lee University
 
+### Interests
+- Painting
+- Hiking
+- Field Hockey
+### Favorite Places to Go 
+- The beach!
+- Disney World
 <!--
 **cidreany/cidreany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
